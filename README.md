@@ -15,9 +15,10 @@ This project focuses on analyzing real-world phishing email samples to identify 
 ```
 FUTURE_CS_02/
 │
-├── samples/                # Collection of phishing and legitimate email samples
-├── report/                 # Final phishing detection report (PDF)
-└── README.md               # Project documentation
+├── Phishing Detection & Awareness Report.pdf    # Final phishing detection report (PDF)
+├── email1.txt                                   # sample email 1
+├── email2.txt                                   # sample email 2
+└── README.md                                    # Project documentation
 ```
 
 ---
